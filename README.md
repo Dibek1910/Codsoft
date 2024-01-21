@@ -10,3 +10,6 @@ Welcome to the repository containing the python projects developed during my int
 2. **Calculator**
     - It is a simple calculator with basic arithmetic operations. Prompt the user to input two numbers and an operation choice. Perform the calculation and display the result.
 
+3. **Password Generator**
+    - It is a useful tool that generates strong and random passwords for users. This project aims to create a password generator application using Python, allowing users to specify the length and complexity of the password.
+
